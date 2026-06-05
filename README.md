@@ -1,5 +1,9 @@
 # Executive Sales Performance Dashboard
 
+![Dashboard Screenshot](executive_sales_dashboard.png)
+
+## Overview
+
 ## Overview
 
 This project presents an Executive Sales Performance Dashboard developed in Tableau to analyze sales performance, customer behavior, and product trends using an online retail dataset.
